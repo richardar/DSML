@@ -19,7 +19,7 @@ We used the publicly available [Dunnhumby - The Complete Journey](https://www.ka
 
 ---
 
-## 🛠️ Workflow Summary
+##  Workflow Summary
 
 1. **Data Ingestion & Cleaning**
    - Read large CSVs in chunks to handle memory efficiently
