@@ -66,7 +66,7 @@ We used the publicly available [Dunnhumby - The Complete Journey](https://www.ka
 ##  Getting Started
 
 1. Clone the repo  
-2. Ensure all dependencies are installed (`requirements.txt` recommended)  
+2. Ensure all dependencies are installed (`requirements.txt`)  
 3. Run the notebook sequentially  
 4. Inspect exported CSVs and visualizations  
 
