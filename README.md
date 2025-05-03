@@ -4,7 +4,7 @@ This project applies a complete data science workflow to segment customers based
 
 ---
 
-##  Dataset
+## Dataset
 
 We used the publicly available [Dunnhumby - The Complete Journey](https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey) dataset, which includes:
 
@@ -19,7 +19,7 @@ We used the publicly available [Dunnhumby - The Complete Journey](https://www.ka
 
 ---
 
-##  Workflow Summary
+## Workflow Summary
 
 1. **Data Ingestion & Cleaning**
    - Read large CSVs in chunks to handle memory efficiently
@@ -63,16 +63,16 @@ We used the publicly available [Dunnhumby - The Complete Journey](https://www.ka
 
 ---
 
-##  Getting Started
+## Getting Started
 
 1. Clone the repo  
 2. Ensure all dependencies are installed (`requirements.txt`)  
-3. Run the notebook sequentially  
+3. Open and run the notebook: [DSML_Customer_Segmentation_main_20250502.ipynb](https://github.com/richardar/DSML/blob/main/DSML_Customer_Segmentation_main_20250502.ipynb)  
 4. Inspect exported CSVs and visualizations  
 
 ---
 
-##  Contributors
+## Contributors
 
 - Gratus Richard Anthuvan Rosario  
 - Fahad M Mujawar  
@@ -82,6 +82,6 @@ This project was developed as part of an academic assessment for the *Data Scien
 
 ---
 
-##  License
+## License
 
 For academic and educational use only.
